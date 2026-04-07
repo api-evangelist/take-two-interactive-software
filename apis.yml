@@ -1,7 +1,12 @@
 aid: take-two-interactive-software
-url: https://raw.githubusercontent.com/api-evangelist/take-two-interactive-software/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/take-two-interactive-software/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.take-two-interactive-software.com
+description: >-
+  Take-Two Interactive Software is a leading developer, publisher, and marketer of
+  interactive entertainment for consumers around the globe, operating the Rockstar
+  Games and 2K labels.
