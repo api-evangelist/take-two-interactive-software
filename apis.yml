@@ -24,6 +24,10 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/TakeTwoInteractive
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/take-2-interactive-software-inc-
   - type: Website
     url: https://www.take2games.com
   - type: Rockstar Games
