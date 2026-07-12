@@ -25,6 +25,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/take-two-interactive-software-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/TakeTwoInteractive
   - type: LinkedIn
@@ -43,6 +45,8 @@ common:
     url: https://ir.take2games.com
   - type: Careers
     url: https://www.take2games.com/careers
+  - url: https://ir.take2games.com/rss/news-releases.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
