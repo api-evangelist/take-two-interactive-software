@@ -1,0 +1,14 @@
+{
+  "repo": "take-two-interactive-software",
+  "feeds": [
+    {
+      "source": "https://ir.take2games.com/rss/news-releases.xml",
+      "feed_url": "https://ir.take2games.com/rss/news-releases.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 10
+}
